@@ -23,3 +23,10 @@ optional arguments:
   -f, --full            if set with -d, dump all pages of objects.
   -s, --skip            if set with -d, skip objects already dumped.
 ```
+
+
+## Read More 
+https://web.archive.org/web/20250000000000*/https://www.enumerated.de/index/salesforce
+
+## Credit 
+https://github.com/moniik/
